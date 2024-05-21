@@ -21,4 +21,4 @@
 ## Demo Video Link 
 https://photos.app.goo.gl/iW1MnWUSr7iYyTK8A
 
-![Description of Image](URL-to-image)
+![Description of Image]((https://github.com/ANISHTWAGLE/Density-based-Traffic-Lights/blob/main/WhatsApp%20Image%202024-04-23%20at%2012.43.43%20PM.jpeg))

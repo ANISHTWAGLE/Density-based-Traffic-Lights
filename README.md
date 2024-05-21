@@ -18,3 +18,5 @@
 ## Problem faced 
  - The camera had to be closed manually using stop button after each detection cycle. 
 
+## Demo Video Link 
+https://photos.app.goo.gl/iW1MnWUSr7iYyTK8A

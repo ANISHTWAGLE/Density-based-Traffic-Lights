@@ -12,6 +12,6 @@
 - Used mobile phone camera for data collection
 - Connected it to the laptop using IP address
 - Processed the live video through the object detection model. 
-- Sent the results to the Arduino .
+- Sent the results to the Arduino by USB.
 - Arduino controlled the LEDS 
 
